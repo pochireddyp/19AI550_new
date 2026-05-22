@@ -3,7 +3,7 @@
 ### REGISTER NUMBER : 212223240115
 ### AIM: 
 To write a program to design RollerBall and train the Rollerbal by Reinforcement learning  in Unity 
-### Installation Required 
+### Installation Required :
 ```
 1.Check sytem have python 3.10.0  ( if any higher version then uninstall and install python3.10.0)
 2. Open commandprompt and Create and activate Python virtualenv by
